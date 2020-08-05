@@ -1,2 +1,3 @@
 # Machine-Learning
-A collection of ML based projects.
+A Collection of ML based projects.<br/>
+These are some of the projects I made to practice my ML Skills.
